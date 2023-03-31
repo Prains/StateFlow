@@ -1,10 +1,13 @@
 
+EN-RU
+
+
 StateFlow - альтернатива Redux для маленьких личных проектов. Экономит оперативную память пользователя, позволяет избавить архитектуру и структуру кода от огромных сторов, редюсеров, и экшенов, привносимых Redux. Крайне не рекомендуется использовать в крупных проектах - ограничение на хранение памяти в каждом сторе 10 МБ.
 
 Установка
-npm install @your-namespace/state
+npm install stateflow-manager
 Использование
-import State from '@your-namespace/state';
+import State from 'stateflow-manager';
 
 const state = new State();
 
@@ -42,11 +45,11 @@ StateFlow is an alternative to Redux for small personal projects. It saves the u
 
 Installation
 
-npm install @your-namespace/state
+npm install stateflow-manager
 
 Usage
 
-import State from '@your-namespace/state';
+import State from 'stateflow-manager';
 
 const state = new State();
 

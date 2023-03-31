@@ -1,5 +1,5 @@
 {
-  "name": "stateflow",
+  "name": "stateflow-manager",
   "version": "1.0.0",
   "description": "simple state manager for small projects",
   "main": "index.js",
@@ -11,6 +11,6 @@
     "manager",
     "state"
   ],
-  "author": "Prai'ns",
+  "author": "Prains",
   "license": "ISC"
 }
