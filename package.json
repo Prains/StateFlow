@@ -1,0 +1,16 @@
+{
+  "name": "stateflow",
+  "version": "1.0.0",
+  "description": "simple state manager for small projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "state",
+    "manager",
+    "state"
+  ],
+  "author": "Prai'ns",
+  "license": "ISC"
+}
